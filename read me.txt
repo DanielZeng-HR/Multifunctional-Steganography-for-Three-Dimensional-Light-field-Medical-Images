@@ -1,0 +1,6 @@
+师弟师妹们吼，一篇文章就把你们骗过来了o_0!!
+
+操作：把本来的路径'D:\X.W.Li materials\InIm鲁邦水印\ROI提取\Unet-EI图像提取\UNet_',candidate_name,'_20.jpg' and 'D:\X.W.Li materials\第三阶段\单目图像生成EIA\integral-imaging-pickup-ZHR\results\N77N137F2.8G3.1_',candidate_name,'\elemental_image_array.jpg' 替换为你当地文件的EIA显著图和EIA就行了。或者用我上传文件夹里面保留的EIA（“elemental_image_array.jpg”）和显著图（“saliency_lung_11_20.jpg”）就行。
+
+
+另外由于3D光场的ROI的提取工作我们组还在做其他的。所以暂时就不公布了。点赞收藏加关注
